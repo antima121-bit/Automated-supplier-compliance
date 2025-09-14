@@ -3,6 +3,9 @@
 A robust system designed to **automate supplier compliance checks, monitor KPIs, and deliver real-time insights** through dashboards and alert workflows.  
 This project reduces compliance risks, saves costs, and streamlines supplier onboarding & monitoring.
 
+## 🌐 Live Demo  
+👉 [Click here to view the live demo](https://v0-automated-supplier-compliance-96nrv7vnt.vercel.app/)
+
 ---
 
 ## 📖 Table of Contents
