@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/punnu6138-6842s-projects/v0-automated-supplier-compliance](https://vercel.com/punnu6138-6842s-projects/v0-automated-supplier-compliance)**
+**[https://automated-supplier-compliance](https://v0-automated-supplier-compliance-96nrv7vnt.vercel.app/)**
 
 ## Build your app
 
